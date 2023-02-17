@@ -1,0 +1,21 @@
+.projects {
+  padding: 2rem;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: auto;
+  gap: 1rem;
+  width: 100%;
+}
+
+.projects div {
+  display: grid;
+  place-items: center;
+  overflow: hidden;
+  min-width: 100%;
+}
+
+img {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+}

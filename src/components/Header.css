@@ -1,0 +1,36 @@
+.header {
+  display: flex;
+  align-items: center;
+  color: white;
+  background: linear-gradient(90deg, #2583bd, #1bd0da);
+  width: 100%;
+  min-width: 40vw;
+  height: 5rem;
+  list-style-type: none;
+  overflow: hidden;
+  
+}
+
+.header a {
+  text-decoration: none;
+  color: white;
+}
+
+.header p {
+  font-size: 2.5rem;
+  padding: 1rem;
+}
+
+.links {
+  width: 100%;
+  text-align: right;
+}
+
+.links a {
+  padding-right: 2rem;
+}
+
+.links a:hover {
+   transition: 1s ease-in;
+    transform: scale(1.2);
+}

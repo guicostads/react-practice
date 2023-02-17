@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Arimo:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&display=swap');
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  overflow-x: hidden;
+  font-family: 'Arimo', sans-serif;
+}
+
+
+button {
+  background: linear-gradient(90deg, #0d70c2ba 30%, #14dfd2);
+  border: none;
+  width: 20vw;
+  height: 10vh;
+  border-radius: 1rem;
+}
+
+button:hover {
+  transition: 0.2s ease-in-out;
+  transform: scale(1.1);
+  cursor: pointer;
+}
+
+a {
+  transition: 0.5s ease-in;
+}
+
+a:hover {
+  transform: scale(1.1);
+}

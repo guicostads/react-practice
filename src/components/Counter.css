@@ -1,0 +1,27 @@
+
+.counter {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    width: 95%;
+    height: 75vh;
+    margin-top: 1rem;
+    border: none;
+  }
+
+  .counter h1 {
+    font-size: 2.5rem;
+  }
+
+  .counter p {
+    font-size: 2rem;
+  }
+
+  .counter button {
+    width: 20rem;
+    min-width: 20rem;
+    font-size: 1.5rem;
+    margin-top: 4.5rem;
+  }

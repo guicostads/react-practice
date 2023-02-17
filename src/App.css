@@ -1,0 +1,32 @@
+body {
+  width: 100vw;
+  height: 100vh;
+  color: black;
+  text-align: center;
+  font-size: 100%;
+  background-color: rgba(75, 255, 255, 0.086);
+}
+
+h1 {
+  margin-bottom: 1rem;
+}
+
+
+.counter {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+  width: 50%;
+  height: 80vh;
+  border: 2px solid aqua;
+  margin-top: 1rem;
+  border-radius: 1.5rem;
+}
+
+button {
+  width: 20vw;
+  height: 20vh;
+  margin-top: 1rem;
+}
