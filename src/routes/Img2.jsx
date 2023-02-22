@@ -12,8 +12,8 @@ const Img2 = () => {
             padding: "1rem",
           }}
         >
-          {" "}
-          Retornar a página inicial{" "}
+         
+          Retornar a página inicial
         </h1>
       </Link>
     </div>

@@ -9,10 +9,12 @@
 }
 
 
+
+
 button {
   background: linear-gradient(90deg, #0d70c2ba 30%, #14dfd2);
   border: none;
-  width: 20vw;
+  width: 50%;
   height: 10vh;
   border-radius: 1rem;
 }

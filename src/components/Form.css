@@ -1,0 +1,21 @@
+.form-box {
+  width: 20rem;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  border: 1px solid rgba(125, 174, 207, 0.745);
+  margin: 0 auto;
+  padding: 1rem;
+  text-align: left;
+}
+
+label {
+  margin-right: 1rem;
+  display: inline-block;
+  width: 90px;
+}
+
+div {
+  margin-bottom: 0.5rem;
+}
