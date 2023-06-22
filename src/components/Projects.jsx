@@ -1,8 +1,8 @@
 import "./Projects.css";
 import { Link } from "react-router-dom";
-import imageOne from "../components/imgs/pexels-mikhail-nilov-6963945.jpg";
-import imageTwo from "../components/imgs/pexels-nao-triponez-792199.jpg";
-import imageThree from "../components/imgs/pexels-soumil-kumar-735911.jpg";
+import imageOne from "../imgs/pexels-mikhail-nilov-6963945.jpg";
+import imageTwo from "../imgs/pexels-nao-triponez-792199.jpg";
+import imageThree from "../imgs/pexels-soumil-kumar-735911.jpg";
 
 const Projects = () => {
   return (

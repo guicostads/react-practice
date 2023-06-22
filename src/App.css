@@ -12,19 +12,6 @@ h1 {
 }
 
 
-.counter {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  margin: 0 auto;
-  width: 50%;
-  height: 80vh;
-  border: 2px solid aqua;
-  margin-top: 1rem;
-  border-radius: 1.5rem;
-}
-
 button {
   width: 20vw;
   height: 20vh;

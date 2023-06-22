@@ -1,5 +1,5 @@
 import React from "react";
-import image from "../components/imgs/pexels-soumil-kumar-735911.jpg";
+import image from "../imgs/pexels-soumil-kumar-735911.jpg";
 import { Link } from "react-router-dom";
 
 const Img3 = () => {
